@@ -2,9 +2,7 @@
 
 A synthetic investment committee that simulates institutional decision-making using specialized AI Agents.
 
-🎥 Live Demo
-
-<!-- [Upload a 30s Loom/YouTube video here showing the agents debating] -->
+![App Preview](alpha_council.gif)
 
 💡 The Concept
 
@@ -56,7 +54,8 @@ Visualization: Plotly Express
 
 📦 Installation
 
+```
 git clone https://github.com/yourusername/AlphaCouncil.git
 pip install -r requirements.txt
-# Add your Groq API Key in .streamlit/secrets.toml or via the UI
 streamlit run app.py
+```
